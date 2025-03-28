@@ -108,6 +108,10 @@ Social Media Sentiment Analysis: Analyzing millions of tweets to gauge public op
 Conclusion:
 Analyzing large datasets requires scalable tools, and PySpark stands out as an efficient solution. By distributing data processing tasks across multiple nodes, PySpark ensures that even petabyte-scale datasets can be analyzed efficiently. Its scalability, in-memory processing, and ease of integration with big data tools make it indispensable for modern data analytics. Organizations leveraging PySpark can extract valuable insights at speed and scale, driving data-driven decision-making.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/ed774796-c641-4443-857b-8192090d4e7c)
+
 
 
 
